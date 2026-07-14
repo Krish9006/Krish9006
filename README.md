@@ -1,135 +1,146 @@
 <h1 align="center">Hi 👋, I'm Krish Gupta</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | AI Engineer | Building Scalable Web Applications
+Full Stack Developer | Building Scalable Web Applications
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Engineer;Next.js+%7C+NestJS+%7C+React;PostgreSQL+%7C+Prisma+%7C+AWS;Building+Production+Ready+Applications;Always+Learning+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js;PostgreSQL+%7C+MongoDB+%7C+Prisma;AI+Powered+Web+Applications;Always+Learning+New+Technologies+🚀" />
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Krish9006&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=Krish9006&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/Krish9006?style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/stars/Krish9006?style=for-the-badge"/>
-
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Sc. (Hons.) Data Science & AI Student
+🎓 **B.Sc. (Hons.) Data Science & Artificial Intelligence**  
+**IIT Guwahati**
 
-💻 Full Stack Developer passionate about scalable backend systems and modern frontend development.
+💻 Full Stack Developer with hands-on experience delivering production-ready web applications and client projects.
 
-🤖 Currently working with AI, OCR, LLMs and production-ready web applications.
-
-🌱 Currently Learning
-
-- System Design
-- AI Engineering
-- Cloud Architecture
-- Docker
-- AWS
-
-⚡ Interests
-
-- SaaS
-- AI Products
-- Backend Architecture
-- High Performance APIs
+🚀 Passionate about building scalable web applications, REST APIs, and AI-powered products.
 
 📍 Bangalore, India
 
 ---
 
-# 🌐 Portfolio
+# 🚀 Professional Experience
 
-### 🌍 Portfolio
+### Full Stack AI Engineer Intern
 
-https://portfolio-krish-lime.vercel.app
+Currently working on healthcare products using modern web technologies.
 
-### 💼 LinkedIn
+### Experience Includes
 
-https://linkedin.com/in/krishguptaji
-
-### 📧 Email
-
-krishgupta80067@gmail.com
-
-### ✍️ Hashnode
-
-https://webdeveloperr.hashnode.dev
+- Production Client Projects
+- REST API Integration
+- Authentication
+- PostgreSQL
+- Prisma ORM
+- AI-assisted Development
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+## Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,postgres,mongodb,prisma,aws,docker,git,github,linux,vscode,cpp,c,python&perline=7"/>
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c"/>
+</p>
 
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚌 Bus Booking Platform
+## 🤝 Project Buddies
 
-A production-ready bus booking ecosystem.
+Student Networking SaaS Platform
 
-### Features
+- Team Discovery
+- Authentication
+- Project Collaboration
+- REST APIs
+- MongoDB
 
-- User Booking Portal
-- Admin Dashboard
-- Bus Owner Dashboard
-- Route Management
-- Dynamic Seat Management
-- Booking Management
-- PostgreSQL Database
+**Stack**
+
+Next.js • Node.js • Express • MongoDB • JWT
+
+---
+
+## 📈 TrendPulse
+
+AI Driven Market Insights Engine
+
+- Gemini AI
+- NLP
+- Cron Jobs
+- News Aggregation
+- Dashboard
+
+**Stack**
+
+MERN • Gemini AI • REST APIs
+
+---
+
+## 🍽 Krishka Kitchen
+
+Social Commerce Platform
+
+- Infinite Scroll
+- Redis Cache
 - JWT Authentication
+- Role Based Access
 
-**Tech Stack**
+**Stack**
 
-Next.js • NestJS • PostgreSQL • Prisma
-
----
-
-## 🏥 AI Prescription OCR
-
-Medical Prescription Processing using OCR + LLM.
-
-### Features
-
-- OCR Extraction
-- AI Summary
-- JSON Response
-- AWS S3 Integration
-- NestJS API
+React • Node.js • Express • MongoDB • Redis
 
 ---
 
-## 📊 Telemetry Dashboard
-
-Enterprise Monitoring Dashboard
-
-### Features
-
-- Live Monitoring
-- Analytics
-- Filtering
-- Device Health
-- Alerts
-- Charts
-
----
-
-# 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -147,64 +158,21 @@ Enterprise Monitoring Dashboard
 
 ---
 
-# 📊 Contribution Graph
+# 🏆 Achievements
 
-<p align="center">
+🏅 800+ LeetCode Problems Solved
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish9006&theme=tokyo-night"/>
+🚀 3 Production Client Projects Delivered
 
-</p>
+💼 Full Stack Development Experience
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Krish9006&theme=tokyonight&row=1&column=7"/>
-
-</p>
+🎓 IIT Guwahati
 
 ---
 
-# 📚 Currently Learning
+# 🌐 Connect With Me
 
-```text
-✔ AI Engineering
-
-✔ LLM Applications
-
-✔ NestJS
-
-✔ PostgreSQL
-
-✔ Prisma ORM
-
-✔ AWS
-
-✔ Docker
-
-✔ System Design
-
-✔ Microservices
-```
-
----
-
-# 📌 Open Source Goals
-
-- Contribute to Open Source
-- Build AI SaaS Products
-- Master Backend Engineering
-- Learn Kubernetes
-- Learn DevOps
-- Build Scalable Systems
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
+<p>
 
 <a href="mailto:krishgupta80067@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -218,26 +186,22 @@ Enterprise Monitoring Dashboard
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://portfolio-krish-lime.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://webdeveloperr.hashnode.dev">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
 </p>
 
----
+🌍 Portfolio
 
-# 💻 Quote
+https://portfolio-krish-lime.vercel.app
 
-> **"Code. Learn. Build. Repeat." 🚀**
+📝 Blog
+
+https://webdeveloperr.hashnode.dev
 
 ---
 
 <p align="center">
 
-### ⭐ If you like my work, consider starring my repositories!
+### ⭐ Thanks for visiting my profile!
+
+Building scalable web applications with clean architecture and modern technologies.
 
 </p>
